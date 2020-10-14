@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "30530943005",
+    "firebase_url": "https://fonteditorapplication.firebaseio.com",
+    "project_id": "fonteditorapplication",
+    "storage_bucket": "fonteditorapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30530943005:android:112b3d6d17ab5361632ef4",
+        "android_client_info": {
+          "package_name": "com.example.font_editor_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30530943005-9690r6vsep9stf4tjsf4nvuohh5a4dps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.font_editor_application",
+            "certificate_hash": "0355f6bd85fec75b79ffb23ffd5a62e4bb8d0d3e"
+          }
+        },
+        {
+          "client_id": "30530943005-0aff610rdmlsj9arl1ht3r2s3ia8oot8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7kO-a8Z7g-Jt-r0Dpbpa4jqZ7zXVUgFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30530943005-0aff610rdmlsj9arl1ht3r2s3ia8oot8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
